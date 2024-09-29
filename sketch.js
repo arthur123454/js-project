@@ -60,7 +60,7 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
     if (gostaDeFantasia) {
       return "divertida mente";
     } else {
-      return "carros Livre";
+      return "carros ";
     }
   }
 }
