@@ -2,7 +2,7 @@
 
 
 // divertida mente, Livre, Drama, Aventura, fantasia
-// carros Livre, Aventura, comedia, Animação
+// carros,Livre, Aventura, comedia, Animação
 // homem aranha Livre, Ação, super-heroi 
 // a viagem de chihiro Livre, fantasia,Aventura
 
